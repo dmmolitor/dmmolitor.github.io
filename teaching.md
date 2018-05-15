@@ -2,17 +2,18 @@
 layout: page
 title: Teaching
 ---
-
+<!--
 ###### Current Courses
 {% for course in site.teaching reversed %}
 {% if course.layout == 'course_info' %}
 {% if course.quarter == site.quarter %}
 
+<!--
 * [{% include course_listing.md %}]({{ site.baseurl }}{{ course.url }})
 {% endif %}
-
+<!--
 {% endif %}
-{% endfor %}
+{% endfor %} -->
 
 ###### Past Courses
 {% for course in site.teaching reversed %}
