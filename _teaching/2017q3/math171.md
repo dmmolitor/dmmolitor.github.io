@@ -1,6 +1,6 @@
 ---
 layout: course_info
 quarter: Fall 2017
-number: Math 171
-name: Stochastic Processes
+number: PIC 10A
+name: Introduction to Programming (C++)
 ---
