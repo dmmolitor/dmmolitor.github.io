@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 ###### Research Interests
-I am broadly interested in developing and analyzing machine learning algorithms. For example, data completion for structured data and classification methods using binary data.
+I am broadly interested in developing and analyzing machine learning algorithms. Recently, I have been studying data completion for structured data and classification methods using binary data.
 
 ###### Journal Papers
 * "Hierarchical Classification using Binary Data"
