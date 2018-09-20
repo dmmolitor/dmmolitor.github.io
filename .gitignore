@@ -1,4 +1,9 @@
 _site
+*.cls
+*.log
+*.aux
+*.gz
+*.tex
 .DS_Store
 .jekyll
 .jekyll-metadata

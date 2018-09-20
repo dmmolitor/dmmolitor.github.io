@@ -11,8 +11,8 @@ description: Applied Math PhD Student at UCLA
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/images/27662168_1639111879481824_1674479385_n.jpg
 
-office: MS 3915B
-quarter: Spring 2018
+office: MS 7630
+quarter: Fall 2018
 
 collections:
   research:
@@ -28,11 +28,11 @@ collections:
 footer-links:
   dribbble:
   email: dmolitor@math.ucla.edu
-  facebook: 
+  facebook:
   flickr:
-  github: 
-  instagram: 
-  linkedin: 
+  github:
+  instagram:
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
@@ -46,7 +46,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: 
+google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
