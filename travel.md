@@ -7,6 +7,8 @@ title: Travel
 * SIAM Conference on Computational Science and Engineering (CSE19), Spokane, WA. Feb. 25 - Mar. 1.
 
 ###### 2018
+* Neural Information Processing Systems (NIPS). Montreal, Canada. Dec. 4-6.
+* Women in Machine Learning Workshop. Montreal, Canada. Dec. 3.
 * International Traveling Workshop for Interacting Sparse models and Technology (iTWIST). Marseille, France. Nov. 21 - 23.
 * Randomized Numerical Linear Algebra and Applications. Simons Institute, Berkeley, CA. Sept. 24 - 27.
 * Foundations of Data Science Boot Camp. Simons Institute, Berkeley, CA. Aug. 27 - 31.
