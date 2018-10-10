@@ -6,7 +6,7 @@ permalink: /index.html
 
 I am a fourth year PhD student in the [Department of Mathematics](https://www.math.ucla.edu/) at UCLA, where I work with [Deanna Needell](http://www.math.ucla.edu/~deanna/index.html).
 <!-- \\[a^2 + b^2 = c^2\\] -->
-I graduated from Colorado College in 2014 with a BS degree in [Mathematics](https://www.coloradocollege.edu/academics/dept/mathematics/).
+I graduated from Colorado College in 2014 with a BA degree in [Mathematics](https://www.coloradocollege.edu/academics/dept/mathematics/).
 
 I am broadly interested in developing and analyzing machine learning algorithms. Recently, I have been studying data completion for structured data and classification methods using binary data.
 
