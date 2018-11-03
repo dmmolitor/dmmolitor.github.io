@@ -5,6 +5,7 @@ title: Travel
 
 ###### 2019
 * SIAM Conference on Computational Science and Engineering (CSE19), Spokane, WA. Feb. 25 - Mar. 1.
+* Women in Data Science Conference, Stanford University, Stanford, CA. Mar. 4.
 
 ###### 2018
 * Neural Information Processing Systems (NIPS). Montreal, Canada. Dec. 4-6.
