@@ -12,8 +12,8 @@ I am broadly interested in developing and analyzing machine learning algorithms.
 
 
 ###### Conference Papers
-* "Supervised local modeling for interpretability" by G. Plumb, D. Molitor and A. Talwalkar.
-Proc. Neural Information Processing Systems (NIPS), Dec. 2018.
+* "Model agnostic supervised local explanations" by G. Plumb, D. Molitor and A. Talwalkar.
+Proc. Neural Information Processing Systems (NeurIPS), Dec. 2018.
 * "A simple approach to hierarchical classification"
 by D. Molitor and D. Needell.
 Proc. International Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques (iTwist), Nov. 2018.
