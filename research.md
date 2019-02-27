@@ -12,6 +12,10 @@ I am broadly interested in developing and analyzing machine learning algorithms.
 
 
 ###### Conference Papers
+* "On inferences from completed data" by J. Haddock, D. Molitor, D. Needell, S. Sambandam, J. Song and S. Sun.
+Proc. Information Theory and Approximation Workshop, Feb. 2019."
+* "Randomized Kaczmarz with averaging" by J. Moorman, T. Tu, D. Molitor and D. Needell. 
+Proc. Information Theory and Approximation Workshop, Feb. 2019.
 * "Model agnostic supervised local explanations" by G. Plumb, D. Molitor and A. Talwalkar.
 Proc. Neural Information Processing Systems (NeurIPS), Dec. 2018.
 * "A simple approach to hierarchical classification"
