@@ -3,7 +3,12 @@ layout: page
 title: Research
 ---
 ###### Research Interests
-I am broadly interested in developing and analyzing machine learning algorithms. In particular, I am interested in relatively simple methods that can be understood well mathematically. Recently, I have been studying data completion for structured data, classification methods using binary data, and optimization.
+I am interested in randomized iterative methods for optimization and analyzing machine learning algorithms for compressed data, in particular, relatively simple methods that can be understood well mathematically. Recently, I have been studying data completion for structured data, classification methods using binary data, and sketch-and-project methods which include popular optimization methods such as coordinate descent, randomized Kaczmarz and stochastic gradient descent.
+
+###### Preprints
+* R. Gower, D. Molitor, J. Moorman, and D. Needell. "Adaptive sketch-and-project methods for solving linear systems." arXiv preprint arXiv:1909.03604 Sept. 2019
+* D. Molitor, D. Needell, R. Ward. "Bias of gradient descent for the hinge loss." arXiv preprint arXiv:1907.11746. Aug. 2019
+* D. Molitor, D. Needell. "An iterative method for classification of binary data." arXiv preprint arXiv:1809.03041. Sept. 2018.
 
 ###### Journal Papers
 * "Using peano curves to construct Laplacians on fractals" by R. Strichartz, N. Ott, D. Molitor.  Fractals, Vol. 23, No. 4, Dec. 2015.
@@ -12,9 +17,11 @@ I am broadly interested in developing and analyzing machine learning algorithms.
 
 
 ###### Conference Papers
+* "Neural nonnegative matrix factorization for hierarchical multilayer topic modeling." M. Gao, J. Haddock, D. Molitor, D. Needell, E. Sadovnik, T. Will, R. Zhang.  Proc. IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP), Dec. 2019.
 * "On inferences from completed data" by J. Haddock, D. Molitor, D. Needell, S. Sambandam, J. Song and S. Sun.
 Proc. Information Theory and Approximation Workshop, Feb. 2019."
-* "Randomized Kaczmarz with averaging" by J. Moorman, T. Tu, D. Molitor and D. Needell. 
+* J. Moorman, T. Tu, D. Molitor, D. Needell, “Randomized Kaczmarz with averaging.” Proc. Information Theory and Applications Workshop, La Jolla, CA, Feb. 2019.
+* "Randomized Kaczmarz with averaging" by J. Moorman, T. Tu, D. Molitor and D. Needell.
 Proc. Information Theory and Approximation Workshop, Feb. 2019.
 * "Model agnostic supervised local explanations" by G. Plumb, D. Molitor and A. Talwalkar.
 Proc. Neural Information Processing Systems (NeurIPS), Dec. 2018.
