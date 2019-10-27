@@ -3,10 +3,15 @@ layout: page
 title: Travel
 ---
 
+###### 2020
+* Joint Mathematics Meeting (JMM), Denver, CO. Jan. 15 - 18.
+
 ###### 2019
+* Women in Data Science and Mathematics Research Collaboration Workshop (WiSDM),
+ICERM, Brown University, Providence, RI. July 29 - Aug. 2
 * Women in Data Science Conference, Stanford University, Stanford, CA. Mar. 4.
 * SIAM Conference on Computational Science and Engineering (CSE19), Spokane, WA. Feb. 25 - Mar. 1.
-* Information Theory and Approximation Workshop, San Diego, CA. Feb. 11-15.
+* Information Theory and Approximation Workshop, San Diego, CA. Feb. 11 - 15.
 
 ###### 2018
 * Neural Information Processing Systems (NIPS). Montreal, Canada. Dec. 4-6.

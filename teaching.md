@@ -15,7 +15,7 @@ title: Teaching
 {% endif %}
 {% endfor %} -->
 
-###### Past Courses
+###### I served as a teaching assistant for the following courses at UCLA:
 {% for course in site.teaching reversed %}
 {% if course.quarter != site.quarter %}
 {% if course.layout == 'course_info' %}
