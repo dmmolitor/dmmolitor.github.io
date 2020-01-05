@@ -13,14 +13,13 @@ I am interested in randomized iterative methods for optimization and analyzing m
 ###### Journal Papers
 * "Using peano curves to construct Laplacians on fractals" by R. Strichartz, N. Ott, D. Molitor.  Fractals, Vol. 23, No. 4, Dec. 2015.
 * "The structure of symmetric N-player games when influence and independence collide" by D. Molitor, M. Steel, A. Taylor. Advances in Applied Mathematics, Vol. 62, 15-40, Jan. 2015.
-* "Is more better? Higher sterilization of infected hosts need not result in reduced pest population" by D. Maxin, L. Berec, A. Bingham, J. Pattyson. J. Math. Biol. June 2014.
+* "Is more better? Higher sterilization of infected hosts need not result in reduced pest population" by D. Maxin, L. Berec, A. Bingham, D. Molitor, J. Pattyson. J. Math. Biol. June 2014.
 
 
 ###### Conference Papers
 * "Neural nonnegative matrix factorization for hierarchical multilayer topic modeling." M. Gao, J. Haddock, D. Molitor, D. Needell, E. Sadovnik, T. Will, R. Zhang.  Proc. IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP), Dec. 2019.
 * "On inferences from completed data" by J. Haddock, D. Molitor, D. Needell, S. Sambandam, J. Song and S. Sun.
-Proc. Information Theory and Approximation Workshop, Feb. 2019."
-* J. Moorman, T. Tu, D. Molitor, D. Needell, “Randomized Kaczmarz with averaging.” Proc. Information Theory and Applications Workshop, La Jolla, CA, Feb. 2019.
+Proc. Information Theory and Approximation Workshop, Feb. 2019.
 * "Randomized Kaczmarz with averaging" by J. Moorman, T. Tu, D. Molitor and D. Needell.
 Proc. Information Theory and Approximation Workshop, Feb. 2019.
 * "Model agnostic supervised local explanations" by G. Plumb, D. Molitor and A. Talwalkar.
@@ -30,7 +29,7 @@ by D. Molitor and D. Needell.
 Proc. International Traveling Workshop on Interactions between low-complexity data models and Sensing Techniques (iTwist), Nov. 2018.
 * "Matrix completion for structured observations"
 by D. Molitor and D. Needell.
-Proc. Information Theory and Approximation, La Jolla CA, Feb. 2018.
+Proc. Information Theory and Approximation, Feb. 2018.
 
 ###### Reports and Articles
 * "Classification scheme for binary data with extensions"
