@@ -1,9 +1,10 @@
----
+ ---
 layout: page
 title: Travel
 ---
 
 ###### 2020
+* Math + X Symposium on Inverse Problems and Deep Learning, Mitigating Natural Hazards, Las Catalinas, Guanacaste, Costa Rica, Jan. 29-31
 * Joint Mathematics Meeting (JMM), Denver, CO. Jan. 15 - 18.
 
 ###### 2019

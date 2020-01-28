@@ -3,14 +3,16 @@ layout: page
 title: Research
 ---
 ###### Research Interests
-I am interested in randomized iterative methods for optimization and analyzing machine learning algorithms for compressed data, in particular, relatively simple methods that can be understood well mathematically. Recently, I have been studying data completion for structured data, classification methods using binary data, and sketch-and-project methods which include popular optimization methods such as coordinate descent, randomized Kaczmarz and stochastic gradient descent.
+I am interested in randomized iterative methods for optimization and analyzing machine learning algorithms for compressed data. I have studied data completion for structured data, classification methods using binary data, and sketch-and-project methods which include popular optimization methods such as coordinate descent, randomized Kaczmarz and stochastic gradient descent. Recently, I have been investigating extensions of methods for use with tensors.
+
+While a research intern at Google, I built tools to diagnose sources of accuracy loss with integer quantization of machine learning models. 
 
 ###### Preprints
 * R. Gower, D. Molitor, J. Moorman, and D. Needell. "Adaptive sketch-and-project methods for solving linear systems." arXiv preprint arXiv:1909.03604 Sept. 2019
-* D. Molitor, D. Needell, R. Ward. "Bias of gradient descent for the hinge loss." arXiv preprint arXiv:1907.11746. Aug. 2019
 * D. Molitor, D. Needell. "An iterative method for classification of binary data." arXiv preprint arXiv:1809.03041. Sept. 2018.
 
 ###### Journal Papers
+* D. Molitor, D. Needell, R. Ward. "Bias of gradient descent for the hinge loss." Applied Mathematics and Optimization, to appear 2020.
 * "Using peano curves to construct Laplacians on fractals" by R. Strichartz, N. Ott, D. Molitor.  Fractals, Vol. 23, No. 4, Dec. 2015.
 * "The structure of symmetric N-player games when influence and independence collide" by D. Molitor, M. Steel, A. Taylor. Advances in Applied Mathematics, Vol. 62, 15-40, Jan. 2015.
 * "Is more better? Higher sterilization of infected hosts need not result in reduced pest population" by D. Maxin, L. Berec, A. Bingham, D. Molitor, J. Pattyson. J. Math. Biol. June 2014.
