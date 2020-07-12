@@ -10,19 +10,22 @@ While a research intern at Google, I built tools to diagnose sources of accuracy
 ###### Preprints
 * R. Gower, D. Molitor, J. Moorman, and D. Needell. "Adaptive sketch-and-project methods for solving linear systems." arXiv preprint arXiv:1909.03604 Sept. 2019
 
+    [Code](https://github.com/dmmolitor/Adaptive-Sketch-and-Project/tree/master)
+* A. Ma and D. Molitor. "Randomized Kaczmarz for Tensor Linear Systems." arXiv preprint arXiv:2006.01246 (2020).
+
 ###### Journal Papers
-* D. Molitor, D. Needell. "An iterative method for classification of binary data." Information and Inference, to appear 2020.
-* D. Molitor, D. Needell, R. Ward. "Bias of gradient descent for the hinge loss." Applied Mathematics and Optimization, to appear 2020.
+* "Randomized Kaczmarz with averaging" by J. Moorman, T. Tu, D. Molitor and D. Needell.
+BIT Numerical Mathematics, to appear 2020.
+* D. Molitor, D. Needell. "An iterative method for classification of binary data." Information and Inference. April 2020.
+* D. Molitor, D. Needell, R. Ward. "Bias of gradient descent for the hinge loss." Applied Mathematics and Optimization. April 2020.
 * "Using peano curves to construct Laplacians on fractals" by R. Strichartz, N. Ott, D. Molitor.  Fractals, Vol. 23, No. 4, Dec. 2015.
 * "The structure of symmetric N-player games when influence and independence collide" by D. Molitor, M. Steel, A. Taylor. Advances in Applied Mathematics, Vol. 62, 15-40, Jan. 2015.
-* "Is more better? Higher sterilization of infected hosts need not result in reduced pest population" by D. Maxin, L. Berec, A. Bingham, D. Molitor, J. Pattyson. J. Math. Biol. June 2014.
+* "Is more better? Higher sterilization of infected hosts need not result in reduced pest population" by D. Maxin, L. Berec, A. Bingham, D. Molitor, J. Pattyson. Journal of Mathematical Biology. June 2014.
 
 
 ###### Conference Papers
 * "Neural nonnegative matrix factorization for hierarchical multilayer topic modeling." M. Gao, J. Haddock, D. Molitor, D. Needell, E. Sadovnik, T. Will, R. Zhang.  Proc. IEEE International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP), Dec. 2019.
 * "On inferences from completed data" by J. Haddock, D. Molitor, D. Needell, S. Sambandam, J. Song and S. Sun.
-Proc. Information Theory and Approximation Workshop, Feb. 2019.
-* "Randomized Kaczmarz with averaging" by J. Moorman, T. Tu, D. Molitor and D. Needell.
 Proc. Information Theory and Approximation Workshop, Feb. 2019.
 * "Model agnostic supervised local explanations" by G. Plumb, D. Molitor and A. Talwalkar.
 Proc. Neural Information Processing Systems (NeurIPS), Dec. 2018.
